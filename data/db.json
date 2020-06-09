@@ -1,0 +1,5 @@
+[
+    {"product": "Печенье", "price": 34, "rating": 3},
+    {"product": "Сахар", "price": 45, "rating": 3},
+    {"product": "Варенье", "price": 200, "rating": 5}
+]
